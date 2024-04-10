@@ -1,0 +1,9 @@
+br\com\alura\farmaciaapiturma2\dto\DadosCadastroDTO.class
+br\com\alura\farmaciaapiturma2\repository\FabricanteRepository.class
+br\com\alura\farmaciaapiturma2\controller\ProdutoController.class
+br\com\alura\farmaciaapiturma2\model\Produto.class
+br\com\alura\farmaciaapiturma2\dto\DadosRetornoDTO.class
+br\com\alura\farmaciaapiturma2\repository\ProdutoRepository.class
+br\com\alura\farmaciaapiturma2\model\Fabricante.class
+br\com\alura\farmaciaapiturma2\dto\DadosAtualizacaoDTO.class
+br\com\alura\farmaciaapiturma2\Farmaciaapiturma2Application.class
